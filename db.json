@@ -1,16 +1,9 @@
 {
-"marketing": [{
-  "id": "1",
-  "companyId": "2",
-  "title": "Need 5+years experienced UI/UX Designer",
-  "description": "Several free, fake job APIs are available for testing and prototyping purposes. These APIs provide simulated job data, allowing developers to work on the front-end of a job board application without a fully functional backend."
-},
-{
-  "id": "2",
-  "companyId": "2",
-  "title": "Need Junior UI/UX Designer",
-  "description": "Several free, fake job APIs are available for testing and prototyping purposes. These APIs provide simulated job data, allowing developers to work on the front-end of a job board application without a fully functional backend."
-}],  
+"categories": [
+  { "id": 1, "title": "Software Engineering", "category": "Engineering" },
+  { "id": 2, "title": "UX Designer", "category": "Design" },
+  { "id": 3, "title": "Marketing Specialist", "category": "Marketing" }
+],  
 "jobs": [{
   "id": "1",
   "companyId": "2",
