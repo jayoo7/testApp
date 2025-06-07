@@ -1,4 +1,4 @@
-[{
+{"jobs": [{
   "id": "1",
   "companyId": "2",
   "category": "design",
@@ -54,3 +54,4 @@
   "title": "Need 15+years experienced Tech Leader",
   "description": "Several free, fake job APIs are available for testing and prototyping purposes. These APIs provide simulated job data, allowing developers to work on the front-end of a job board application without a fully functional backend."
 }]
+}
